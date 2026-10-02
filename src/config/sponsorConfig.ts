@@ -21,7 +21,7 @@ export const sponsorConfig: SponsorConfig = {
 	showButtonInPost: true,
 
 	// 打赏方式列表
-	methods: [
+	/*methods: [
 		{
 			name: "支付宝",
 			icon: "fa7-brands:alipay",
@@ -55,10 +55,10 @@ export const sponsorConfig: SponsorConfig = {
 			description: "通过 爱发电 进行打赏",
 			enabled: true,
 		},
-	],
+	],*/
 
 	// 打赏者列表（可选）
-	sponsors: [
+	/*sponsors: [
 		// 示例：已实名打赏者
 		{
 			name: "夏叶",
@@ -75,5 +75,5 @@ export const sponsorConfig: SponsorConfig = {
 			amount: "¥20",
 			date: "2025-10-01",
 		},
-	],
+	],*/
 };
