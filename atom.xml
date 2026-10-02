@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://morin.cc.cd/</id>
+  <title type="text">Morin&apos;s Blog</title>
+  <subtitle type="text">Here&apos;s Morin&apos;s Blog Website</subtitle>
+  <updated>2026-10-02T00:00:00.000Z</updated>
+  <author><name>Morin</name></author>
+  <link rel="alternate" href="https://morin.cc.cd/"/>
+  <link rel="self" href="https://morin.cc.cd/atom.xml"/>
+  <generator uri="https://github.com/CuteLeaf/Firefly">Firefly v6.16.8</generator>
+    <entry>
+      <id>https://morin.cc.cd/posts/first-article/</id>
+      <title type="text">我的第一篇文章</title>
+      <published>2026-10-02T00:00:00.000Z</published>
+      <updated>2026-10-02T00:00:00.000Z</updated>
+      <author><name>Morin</name></author>
+      <link rel="alternate" href="https://morin.cc.cd/posts/first-article/"/>
+      <summary type="text">测试文章</summary>
+      <content type="html"><![CDATA[<section><h1>这是一篇测试用文章<a href="#这是一篇测试用文章"><span>#</span></a></h1></section>
+<section><h1>This is a test article<a href="#this-is-a-test-article"><span>#</span></a></h1></section>]]></content>
+    </entry>
+</feed>

@@ -1,0 +1,13 @@
+﻿# Morin's Blog
+> 此处是Morin的个人博客
+
+## Key Pages
+- [主页](https://morin.cc.cd/)
+- [归档](https://morin.cc.cd/archive/)
+- [关于我](https://morin.cc.cd/about/)
+- [友链](https://morin.cc.cd/friends/): 这里是我的朋友们，欢迎互相访问交流
+- [动态](https://morin.cc.cd/dynamic/): 随手记下此刻的想法与日常。
+- [项目](https://morin.cc.cd/projects/): 这里展示我开发过的项目
+
+## Recent Posts
+- [我的第一篇文章](https://morin.cc.cd/posts/first-article/): 测试文章
